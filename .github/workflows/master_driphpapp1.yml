@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'driphpapp1'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DC97A89674D9423D95A530D39F4EE295 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_77A5456CE92C4019A30F197466FB7C6F }}
           package: .
